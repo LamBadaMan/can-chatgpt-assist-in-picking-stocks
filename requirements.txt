@@ -1,0 +1,13 @@
+sqlalchemy>=2.0
+pandas>=1.5
+numpy>=1.22
+openai>=1.0
+tqdm>=4.64
+multiprocess>=0.70
+backoff>=2.2
+vaex>=4.16
+pandas-datareader>=0.10
+dask[complete]>=2023.3.0
+undetected-chromedriver>=3.5
+selenium>=4.9
+python-dotenv
